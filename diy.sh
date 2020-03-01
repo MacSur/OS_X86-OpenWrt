@@ -1,6 +1,6 @@
 #!/bin/bash
 #=================================================
-# Description: DIY script
+# Description: 自己修改一下默认的IP访问地址，方便管理。
 # Lisence: MIT
 # Author: P3TERX
 # Blog: https://p3terx.com
